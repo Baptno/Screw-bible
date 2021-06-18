@@ -1,6 +1,6 @@
 ***
 
-### Diamètres de passages de vis et pré-perçages pour taraudage
+### Screws Sizes
 
 | Diameter 	| Pitch (mm) 	| Tap Hole Size (mm) 	| Clearance Hole (mm) 	| CHC Head Diameter (mm) 	| CHC Head height (mm) 	|
 |----------	|------------	|:------------------:	|:-------------------:	|------------------------	|----------------------	|
