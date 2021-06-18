@@ -26,9 +26,9 @@
 | **M27**  	|      3     	|         24         	|          30         	| 40                     	| 27                   	|
 | **M30**  	|     3.5    	|        26.5        	|          33         	| 45                     	| 30                   	|
 
-*Source:
-- [https://www.trfastenings.com/...](https://www.trfastenings.com/Products/knowledgebase/Tables-Standards-Terminology/Tapping-Sizes-and-Clearance-Holes)
-- [https://accu.group/](https://accu.group/)*
+> Source:
+> - [https://www.trfastenings.com/...](https://www.trfastenings.com/Products/knowledgebase/Tables-Standards-Terminology/Tapping-Sizes-and-Clearance-Holes)
+> - [https://accu.group/](https://accu.group/)
 
 ***
 
@@ -45,7 +45,7 @@
 | **M8**   	|        4       	|     13     	|
 | **M10**  	|        5       	|     17     	|
 
-*Source:
-- [https://accu.group/](https://accu.group/)*
+> Source:
+> - [https://accu.group/](https://accu.group/)*
 
 ***
