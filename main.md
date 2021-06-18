@@ -31,3 +31,21 @@
 - [https://accu.group/](https://accu.group/)*
 
 ***
+
+### Flat Square Nuts Sizes (DIN 562)
+
+| Diameter 	| Thickness (mm) 	| Width (mm) 	|
+|----------	|:--------------:	|:----------:	|
+| **M2**   	|       1.2      	|      4     	|
+| **M2.5** 	|       1.6      	|      5     	|
+| **M3**   	|       1.8      	|     5.5    	|
+| **M4**   	|       2.2      	|      7     	|
+| **M5**   	|       2.7      	|      8     	|
+| **M6**   	|       3.2      	|     10     	|
+| **M8**   	|        4       	|     13     	|
+| **M10**  	|        5       	|     17     	|
+
+*Source:
+- [https://accu.group/](https://accu.group/)*
+
+***
