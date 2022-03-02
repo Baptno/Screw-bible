@@ -46,7 +46,7 @@
 | **M10**  	|        5       	|     17     	|
 
 > Source:
-> - [https://accu.group/](https://accu.group/)*
+> - [https://accu.group/](https://accu.group/)
 
 ***
 
@@ -64,6 +64,6 @@
 | **M10**  	|        8       	|     17     	|
 
 > Source:
-> - [https://accu.group/](https://accu.group/)*
+> - [https://accu.group/](https://accu.group/)
 
 ***
