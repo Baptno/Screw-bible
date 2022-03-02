@@ -49,3 +49,21 @@
 > - [https://accu.group/](https://accu.group/)*
 
 ***
+
+### Hexagon Nuts Sizes (DIN 934)
+
+| Diameter 	| Thickness (mm) 	| Width (mm) 	|
+|----------	|:--------------:	|:----------:	|
+| **M2**   	|       1.6      	|      4     	|
+| **M2.5** 	|        2      	|      5     	|
+| **M3**   	|       2.4      	|     5.5    	|
+| **M4**   	|       3.2      	|      7     	|
+| **M5**   	|        4      	|      8     	|
+| **M6**   	|        5      	|     10     	|
+| **M8**   	|       6.5      	|     13     	|
+| **M10**  	|        8       	|     17     	|
+
+> Source:
+> - [https://accu.group/](https://accu.group/)*
+
+***
