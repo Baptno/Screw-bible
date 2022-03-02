@@ -67,3 +67,21 @@
 > - [https://accu.group/](https://accu.group/)
 
 ***
+
+### Hexagon Nylon Lock Nuts Sizes (DIN 985)
+
+| Diameter 	| Thickness (mm) 	| Width (mm) 	|
+|----------	|:--------------:	|:----------:	|
+| **M2**   	|      2.8    	|      4    	|
+| **M2.5** 	|      3.6     	|      5     	|
+| **M3**   	|       4      	|     5.5    	|
+| **M4**   	|       5      	|      7     	|
+| **M5**   	|       5      	|      8     	|
+| **M6**   	|       6      	|     10     	|
+| **M8**   	|       8     	|     13     	|
+| **M10**  	|       10     	|     17     	|
+
+> Source:
+> - [https://accu.group/](https://accu.group/)
+
+***
