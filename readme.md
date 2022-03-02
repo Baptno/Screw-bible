@@ -68,7 +68,7 @@
 
 ***
 
-### Hexagon Nylon Lock Nuts Sizes (DIN 985)
+### Hexagon Nylon Locking Nuts Sizes (DIN 985)
 
 | Diameter 	| Thickness (mm) 	| Width (mm) 	|
 |----------	|:--------------:	|:----------:	|
